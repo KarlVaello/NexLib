@@ -10,7 +10,7 @@ The goal of this library is to provide the most reliable, secure and faster way 
 
 ### Prerequisites
 
-This library needs include the "serialib.h" to control serial ports.
+This library needs include the "serialib" to control serial ports (Windows/Linux)
 
 ## Wiki
 
